@@ -1,2 +1,2 @@
-# gcso-3
-prevent cars from dashing
+# p5.play-boilerplate
+Boiler plate for p5.play
